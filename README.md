@@ -1,2 +1,2 @@
-# example-webxr-game
-An example experience for my space themed vr system
+# Example experience for my space themed VR experience system
+This is just an example
